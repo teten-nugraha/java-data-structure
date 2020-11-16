@@ -124,7 +124,7 @@ public class LinkedList {
 
         // Delete node with value 1
         // In this case the key is ***at head***
-        deleteByKey(list, 1);
+//        deleteByKey(list, 1);
 
         deleteByKey(list, 5);
     }
